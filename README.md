@@ -2,7 +2,7 @@
 
 ✨ Quick Facts
 - 👀 I’m interested in food, nature and movies       
-- 🌱 I’m currently learning I am currently learning Frontend (js, css and html, angular)   
+- 🌱 I’m currently learning I am currently learning Frontend y backend  
 -:construction_worker_woman: I’m building my portfolio
 - 📫 How to reach me mafer18199420@gmail.com                           
 
