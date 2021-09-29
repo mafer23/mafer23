@@ -1,5 +1,6 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hola , I'm Thai Braga! </h2>
+<video src="https://www.canva.com/design/DAErarPFSBE/-22ov5CHkzWCG5om4M2yiA/view?presentation" width="50">
+<img align='right' src="https://user-images.githubusercontent.com/39041288/135320295-91f17646-9af6-4c0e-a6e3-654ff70cc5ad.png" width="290">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -13,15 +14,14 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  code: [Javascript, Typescript, HTML, CSS, Angular],
+  tools: [Redux, Node, postgreSql],
+  Comunidades Tech: [
+                        "Technolatinas", 
+                     ],
+  Mi interes: { Aprender y compartir mis conocimientos, la naturaleza ,los gatitos , la hamburguesa"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "  #100DaysOfCode challenge focused on Angular and typescript"
 }
 ```
 
