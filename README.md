@@ -1,18 +1,17 @@
-<h2> Hola , I'm Thai Braga! </h2>
-<video src="https://www.canva.com/design/DAErarPFSBE/-22ov5CHkzWCG5om4M2yiA/view?presentation" width="50">
+<h2> Hola, Bienvenid@s <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/39041288/135320295-91f17646-9af6-4c0e-a6e3-654ff70cc5ad.png" width="290">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Ingenieria de Sistemas <a href="http://www.unb.br">Universidad de Santander</a><img src=" https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrollo web <a href="https://www.thoughtworks.com"> Upb , mintics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Desarrollo web <a href="https://www.thoughtworks.com"> Platzi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: Mafer](https://img.shields.io/twitter/follow/Mafer?style=social)](https://twitter.com/mafer18199420)
+[![Linkedin: Mafer](https://img.shields.io/badge/-Mafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
+[![GitHub Mafer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafer23)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí... 
 
 ```javascript
-const thai = {
+const Mafer = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Angular],
   tools: [Redux, Node, postgreSql],
@@ -25,8 +24,8 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> No dudes en contactarme, ¡Estaré feliz de conocerte!</b> :)</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [Mafer](https://github.com/mafer23)
