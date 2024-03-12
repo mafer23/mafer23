@@ -13,10 +13,10 @@
 ```javascript
 const Mafer = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Angular],
+  code: [Javascript, Typescript, HTML, CSS, Angular, Software develop],
   tools: [Redux, Node, postgreSql],
   Comunidades Tech: [
-                        "Technolatinas", 
+                        "Tech Fellow | First Cohort", 
                      ],
   Mi interes: { Aprender y compartir mis conocimientos, la naturaleza ,los gatitos , la hamburguesa"
                       },
