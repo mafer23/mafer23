@@ -9,7 +9,7 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 [![GitHub Mafer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafer23)
 
 
-![Seleccionado_marzo_29_2024_09_10_00-removebg-preview](https://github.com/mafer23/mafer23/assets/39041288/4f6d556e-6a32-42a7-b6ed-4800eed64365)
+<img src="![Seleccionado_marzo_29_2024_09_10_00-removebg-preview](https://github.com/mafer23/mafer23/assets/39041288/4f6d556e-6a32-42a7-b6ed-4800eed64365)" width="60>
 
 ```javascript
 const Mafer = {
