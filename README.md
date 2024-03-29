@@ -20,6 +20,8 @@ const Mafer = {
  challenge: "  #100DaysOfCode challenge focused on Angular and typescript"
 }
 ```
+![octocat-1711722537085](https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> No dudes en contactarme, ¡Estaré feliz de conocerte!</b> :)</em>
 
