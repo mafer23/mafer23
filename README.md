@@ -12,13 +12,15 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 ```javascript
 const Mafer = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Angular, Software develop],
+  code: [Javascript,
+        Typescript,
+         HTML,
+         CSS,
+        Angular],
   tools: [Redux, Node, postgreSql],
   Comunidades Tech: [
                         "Tech Fellow | First Cohort", 
                      ],
-  Mi interes: { Aprender y compartir mis conocimientos, la naturaleza ,los gatitos , la hamburguesa"
-                      },
  challenge: "  #100DaysOfCode challenge focused on Angular and typescript"
 }
 ```
