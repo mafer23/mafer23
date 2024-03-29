@@ -24,7 +24,7 @@ const Mafer = {
 <img src="https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50" alt="octocat-1711722537085" width="200" height="200"> <h2> Contáctame </h2>
 
 [![Linkedin: Mafer](https://img.shields.io/badge/-Mafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
-[![Gmail Mafer](mafer18199420@gmail.com)
+[![Gmail](mafer18199420@gmail.com)
 
 ---
 
