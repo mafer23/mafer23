@@ -12,11 +12,7 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 ```javascript
 const Mafer = {
   pronouns: "she" | "her",
-  code: [Javascript,
-        Typescript,
-         HTML,
-         CSS,
-        Angular],
+  code: [Javascript, Typescript, HTML,CSS, Angular],
   tools: [Redux, Node, postgreSql],
   Comunidades Tech: [
                         "Tech Fellow | First Cohort", 
