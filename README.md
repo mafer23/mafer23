@@ -9,8 +9,6 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 [![GitHub Mafer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafer23)
 
 
-<img src="https://github.com/mafer23/mafer23/assets/39041288/4f6d556e-6a32-42a7-b6ed-4800eed64365" width="60>
-
 ```javascript
 const Mafer = {
   pronouns: "she" | "her",
