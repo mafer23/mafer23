@@ -1,6 +1,6 @@
 <h2> Hola, Soy Maria Fernanda   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h1>Acerca de mí</h1>
+<h2>Acerca de mí</h2>
 
 Me encanta investigar nuevas tecnologías y crear soluciones de software creativas y prácticas. En este momento, estoy concentrado en ampliar mis conocimientos para seguir progresando en mi carrera profesional.
 
