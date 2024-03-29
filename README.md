@@ -6,7 +6,7 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 
 
  <!-- El siguiente código HTML insertará la imagen y establecerá su tamaño -->
-<img src="https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50" alt="octocat-1711722537085" width="50" > 
+<img align='right'  src="https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50" alt="octocat-1711722537085" width="230" > 
 
 
 ```javascript
