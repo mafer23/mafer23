@@ -7,7 +7,7 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 
 [![Linkedin: Mafer](https://img.shields.io/badge/-Mafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
 [![GitHub Mafer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafer23)
-
+<img src="https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50" alt="octocat-1711722537085" width="200" height="200">
 
 ```javascript
 const Mafer = {
@@ -22,7 +22,7 @@ const Mafer = {
 ```
 
 <!-- El siguiente código HTML insertará la imagen y establecerá su tamaño -->
-<img src="https://github.com/mafer23/mafer23/assets/39041288/fade0c32-f42d-4001-8253-0dd840508a50" alt="octocat-1711722537085" width="200" height="200">
+
 
 ---
 
