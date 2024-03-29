@@ -8,7 +8,8 @@ Me encanta investigar nuevas tecnologías y crear soluciones de software creativ
 [![Linkedin: Mafer](https://img.shields.io/badge/-Mafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
 [![GitHub Mafer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafer23)
 
- <img align='right' src="https://octodex.github.com/femalecodertocat/" width="230">
+ <img align='right' src="![Seleccionado_marzo_29_2024_09_10_00-removebg-preview](https://github.com/mafer23/mafer23/assets/39041288/cf252024-e71e-4e33-96fa-d1acd1042c8e)
+" width="230">
 
 ```javascript
 const Mafer = {
