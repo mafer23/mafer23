@@ -26,7 +26,7 @@ const Mafer = {
 <h2> Contáctame </h2>
 
 
-[![Linkedin: Linkedin](https://img.shields.io/badge/-Mafer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandapalencia/)](https://www.linkedin.com/in/fernandapalencia/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mafer18199420@gmail.com/)
 ---
 Portafolio : https://portafolio-mafer-palencia.netlify.app/home
